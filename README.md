@@ -1,6 +1,6 @@
 
 
-# 👋 Hello, I'm PUFFY | Merhaba, Ben PUFFY
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZlNzRkZDRkMzRlMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
@@ -11,9 +11,6 @@
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </div>
 </div>
-
-
-
 
 ## 🛠️ Languages and Tools | Diller ve Araçlar
 
@@ -49,16 +46,16 @@
 </div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emirhantopcu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhantopcu&theme=radical&hide_border=true&background=0D1117" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Constantinne&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Constantinne&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emirhantopcu&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=true&layout=compact" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Constantinne&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=true&layout=compact" alt="En Çok Kullanılan Diller" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emirhantopcu&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Constantinne&theme=radical" />
 </div>
 
 ## 🏆 GitHub Trophies | GitHub Rozetleri
@@ -68,13 +65,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emirhantopcu&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Rozetleri" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Constantinne&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Rozetleri" />
 </div>
 
 ## 🔥 Activity Graph | Aktivite Grafiği
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emirhantopcu&theme=redical&hide_border=true&bg_color=0D1117&line=FF428E&point=FFFFFF" alt="Aktivite Grafiği" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Constantinne&theme=redical&hide_border=true&bg_color=0D1117&line=FF428E&point=FFFFFF" alt="Aktivite Grafiği" />
 </div>
 
 ## 🎯 Skills | Yetenekler
@@ -97,20 +94,8 @@
 ## 📫 Contact | İletişim
 
 <div align="center">
-  <a href="mailto:emirhantopcu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/emirhantopcu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/emirhantopcu">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://discord.gg/emirhantopcu">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.instagram.com/emirhantopcu/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://discord.com/users/_constantinne_">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: _constantinne_"/>
   </a>
 </div>
 
@@ -123,5 +108,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emirhantopcu&label=Profil%20Ziyaretçileri&color=0e75b6&style=for-the-badge" alt="Profil Ziyaretçileri"/>
+  <img src="https://komarev.com/ghpvc/?username=Constantinne&label=Profil%20Ziyaretçileri&color=0e75b6&style=for-the-badge" alt="Profil Ziyaretçileri"/>
 </div>
