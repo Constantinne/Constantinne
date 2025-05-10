@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFsdDdlYWFsMHd6d3EybTlya210ajhpMXR0b2xmc295NWY1cmRrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y48cIAB23dPnTAJsMY/giphy.gif" width="100%" alt="Banner GIF"/>
-
   <h1 align="center">PUFFY | Constantinne</h1>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&lines=Senior+C%23+%26+C%2B%2B+Developer;Full+Stack+Web+Developer;Mobile+%7C+Desktop+%7C+Web+Development;IoT+and+Cybersecurity+Expert)](https://git.io/typing-svg)
 
   <p align="center">
     <code>C# <> JavaScript <> C++ is Best</code>
