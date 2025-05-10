@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZlNzRkZDRkMzRlMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Banner GIF"/>
-</div>
+
 
 # 👋 Hello, I'm PUFFY | Merhaba, Ben PUFFY
 
@@ -15,21 +13,7 @@
 </div>
 
 
-## 👨‍💻 About Me | Hakkımda
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZlNzRkZDRkMzRlMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding GIF"/>
-</div>
-
-- 🚀 Started my journey in cybersecurity in elementary school | İlkokul 3. sınıfta siber güvenlik ile yazılım dünyasına adım attım
-- 🔒 My interest in cybersecurity led me to software development | Siber güvenliğe olan merakım beni yazılım geliştirmeye yönlendirdi
-- 💻 Started working on IoT and robotics development in high school | Lisede IoT ve robot geliştirme üzerine çalışmaya başladım
-- 📱 Currently working on Mobile, Desktop and Web development | Şu anda Mobil, Desktop ve Web geliştirme alanlarında çalışıyorum
-- 🌐 Experienced in IoT applications and cybersecurity | IoT uygulamaları ve siber güvenlik konularında deneyimliyim
-- 🐧 Experienced with Linux operating systems (CachyOS, Arch Linux, Fedora, Kali Linux)
-- 🌱 Continuously improving and learning new technologies | Sürekli kendimi geliştiriyor ve yeni teknolojileri öğreniyorum
-- 👯 Looking to collaborate on: IoT Applications, Cybersecurity, Web/Mobile Development
-- 📫 How to reach me: emirhantopcu@gmail.com
 
 ## 🛠️ Languages and Tools | Diller ve Araçlar
 
