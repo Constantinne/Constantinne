@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFsdDdlYWFsMHd6d3EybTlya210ajhpMXR0b2xmc295NWY1cmRrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y48cIAB23dPnTAJsMY/giphy.gif" width="100%" alt="Banner GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFsdDdlYWFsMHd6d3EybTlya210ajhpMXR0b2xmc295NWY1cmRrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y48cIAB23dPnTAJsMY/giphy.gif" width="70%" alt="Banner GIF"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Senior+C%23+%26+C%2B%2B+Developer;Full+Stack+Web+Developer;ASP.NET+%7C+PHP+%7C+Python+Expert;Java+%7C+JavaScript+%7C+XML+Professional)](https://git.io/typing-svg)
 
