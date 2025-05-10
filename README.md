@@ -30,7 +30,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
 </div>
 
-### 🛠️ Frameworks & Libraries | Ç
+### 🛠️ Frameworks & Libraries | 
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET" /></a>
