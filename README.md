@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZlNzRkZDRkMzRlMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Header Animation"/>
+
 
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=FF3D00&background=FF000000&center=true&vCenter=true&random=false&width=600&height=70&lines=PUFFY+%7C+Constantinne;%3C%2FSenior_Developer%3E" alt="Typing SVG" />
