@@ -1,9 +1,5 @@
-
-
-
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZlNzRkZDRkMzRlMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRzdTIyeWx3eWV3ZGY4cWU3MnRiMXlkeHFzNTRuMjhyMjZ3MHVjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" width="500"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Senior+C%23+%26+C%2B%2B+Developer;Full+Stack+Web+Developer;ASP.NET+%7C+PHP+%7C+Python+Expert;Java+%7C+JavaScript+%7C+XML+Professional)](https://git.io/typing-svg)
 
