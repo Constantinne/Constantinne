@@ -12,13 +12,13 @@
   </div>
 </div>
 
-## ✨ Technical Skills | Teknik Beceriler
+## ✨ Technical Skills | 
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZlNzRkZDRkMzRlMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMw/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Developer GIF"/>
 </div>
 
-### 💻 Languages | Diller
+### 💻 Languages | 
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
@@ -30,7 +30,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
 </div>
 
-### 🛠️ Frameworks & Libraries | Çerçeveler ve Kütüphaneler
+### 🛠️ Frameworks & Libraries | Ç
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET" /></a>
@@ -40,7 +40,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron" /></a>
 </div>
 
-### 🗄️ Databases | Veritabanları
+### 🗄️ Databases | 
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
@@ -48,7 +48,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
 </div>
 
-### 🧰 Development Environment | Geliştirme Ortamı
+### 🧰 Development Environment | 
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" /></a>
@@ -57,7 +57,7 @@
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" /></a>
 </div>
 
-### 🔧 Tools & Services | Araçlar ve Hizmetler
+### 🔧 Tools & Services | 
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
@@ -66,7 +66,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
 </div>
 
-## 📊 GitHub Stats | GitHub İstatistiklerim
+## 📊 GitHub Stats | 
 
 
 <p align="center">
@@ -82,7 +82,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Constantinne&theme=radical" />
 </div>
 
-## 🏆 GitHub Trophies | GitHub Rozetleri
+## 🏆 GitHub Trophies | 
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZlNzRkZDRkMzRlMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMw/0TtX2qqpxp3pIafzio/giphy.gif" width="400" alt="Trophy GIF"/>
@@ -92,13 +92,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Constantinne&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Rozetleri" />
 </div>
 
-## 🔥 Activity Graph | Aktivite Grafiği
+## 🔥 Activity Graph | 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Constantinne&theme=redical&hide_border=true&bg_color=0D1117&line=FF428E&point=FFFFFF" alt="Aktivite Grafiği" />
 </div>
 
-## 🎯 Skills | Yetenekler
+## 🎯 Skills | 
 
 <div align="center">
 
@@ -115,7 +115,7 @@
 
 </div>
 
-## 📫 Contact | İletişim
+## 📫 Contact | 
 
 <div align="center">
   <a href="https://discord.com/users/_constantinne_">
