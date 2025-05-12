@@ -10,11 +10,8 @@
   </div>
 </div>
 
-## ✨ Technical Skills | 
+## ✨ Technical Skills  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZlNzRkZDRkMzRlMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMw/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Developer GIF"/>
-</div>
 
 ### 💻 Languages  
 
