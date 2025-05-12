@@ -13,7 +13,7 @@
 ## ✨ Technical Skills  
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R0OWlxb3BuaHYya29lMTh2MWx2dmVuaWc2NmhkMjVxdWpuanp3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UC8DbMqXvkpd6/giphy.gif" width="700" alt="Developer GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R0OWlxb3BuaHYya29lMTh2MWx2dmVuaWc2NmhkMjVxdWpuanp3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UC8DbMqXvkpd6/giphy.gif" width="500" alt="Developer GIF"/>
 </div>
 
 ### 💻 Languages  
